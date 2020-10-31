@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello World! 👋
+### This is Saharsh Vedi. I am currently a 💻 Software Engineering Intern at [ClearTax](https://cleartax.in/s/about-us). 
 
-<!--
-**Saharshv/Saharshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- 🌱 I’m currently working on Java, DropWizard, ReactJS, NextJS, and GraphQL.
+- **Framework -** ReactJS, NextJS, Angular 9, ExpressJS
+- **Testing Framework -** Jest, React Testing Library
+- **Database -** PostgreSQL, MySQL, MongoDB, Firestore, NoSQL
+- **Programming Language -** Java, Python, C++, NodeJS
+- **Tool -** Jenkins, JIRA, Git, Github
+- **Other -** REST API, GraphQL, Agile Development
+- 📫 Reach out to me :v: <br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/saharshv/)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/saharshv)
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=saharshv&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshv&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=highcontrast" width="45%" height="100%">](https://github.com/shoaibrayeen/Exchange-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=radical" width="45%" height="100%"/>](https://github.com/shoaibrayeen/API-Testing-Automation)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=react" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Url-Shortener)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Accident-Prevention)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=blueberry" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Creation-Application)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Chatbot)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Heart-Disease-Predictor)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Buffer-Cache-Simulation)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="45%" height="100%"/>](https://github.com/shoaibrayeen/File-Transfer-Protocol)

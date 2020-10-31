@@ -14,4 +14,4 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="5%"/>](https://github.com/saharshv)
 
 <img src="https://github-readme-stats.vercel.app/api?hide=prs,contribs&username=Saharshv&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true" width="90%" height="60%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshv&theme=highcontrast&hide=html" width="40%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshv&theme=highcontrast&hide=html&langs_count=7" width="40%" height="100%"/>

@@ -13,7 +13,7 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/saharshv/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/saharshv)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saharshv)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saharshv)"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshv&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
 
 ## Projects

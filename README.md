@@ -1,12 +1,12 @@
 ## Hello World! 👋
-### This is Saharsh Vedi. I am currently a 💻 Software Engineering Intern at [ClearTax](https://cleartax.in/s/about-us) while being on a gap year from San Jose State University due to the unprecedented COVID-19 situation. <br><br> 🔍 Looking for an internship starting in January 2021.
+### This is Saharsh Vedi. I am currently a 💻 Software Engineering Intern at [ClearTax](https://cleartax.in/s/about-us) while being on a gap year from San Jose State University due to the unprecedented COVID-19 situation. <br><br> 🔍 Looking for Summer 2021 Internships. Hit me up if you have any leads 😄
 
 ## Tech Stack
 - ✨ I’m currently working on Java, DropWizard, ReactJS, NextJS, and GraphQL.
 - **Programming Language -** Java, Python, C++, JavaScript, TypeScript, PHP
 - **SDK -** Android SDK, Flutter SDK
 - **Database -** PostgreSQL, MySQL, MongoDB, Firestore, NoSQL
-- **Framework -** ReactJS, NextJS, Angular 9, ExpressJS 
+- **Framework -** ReactJS, NextJS, Hibernate, Angular 9, ExpressJS 
 - **Testing Framework -** Jest, React Testing Library
 - **Tool -** Jenkins, JIRA, Firebase, Git, Github
 - **Other -** NodeJS, REST API, GraphQL, Agile Development

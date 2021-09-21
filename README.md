@@ -1,5 +1,5 @@
 ## Hello World! 👋
-### This is Saharsh Vedi. I am currently a 💻 Software Engineering Intern at [ClearTax](https://cleartax.in/s/about-us). I'm a rising junior at San Jose State University, studying Software Engineering. <br><br> 🔍 Looking for Summer 2022 Internships. Hit me up if you have any leads 😄
+### This is Saharsh Vedi. I am currently a 💻 Software Engineering Intern at [ClearTax](https://cleartax.in/s/about-us). I'm a junior at San Jose State University, studying Software Engineering. <br><br> 🔍 Looking for Summer 2022 Internships. Hit me up if you have any leads 😄
 
 ## Tech Stack
 - ✨ I’m currently working on Java, Spring, MongoDB, Redis, ReactJS, NextJS, and GraphQL.

@@ -1,5 +1,5 @@
 ## Hello World! 👋
-### This is Saharsh Vedi. I am an incoming 💻 Software Engineering Intern at [Lyft] for Summer 2022. I'm a junior at San Jose State University, studying Computer Science, graduating in May 2023. <br><br> 🔍 Looking for Full-Time roles. Hit me up if you have any leads 😄
+### This is Saharsh Vedi. I am an incoming 💻 Software Engineering Intern at Lyft for Summer 2022. I'm a junior at San Jose State University, studying Computer Science, graduating in May 2023. <br><br> 🔍 Looking for Full-Time roles. Hit me up if you have any leads 😄
 
 ## Tech Stack
 - ✨ I’m currently working on Java, Python, Spring, MongoDB, Redis, ReactJS, NextJS, and GraphQL.

@@ -1,11 +1,11 @@
 ## Hello World! 👋
-# 💫 About Me:
-This is Saharsh Vedi. <br>
+## 💫 About Me:
+This is Saharsh Vedi. 
+🔍 Looking for Full-Time SWE roles. Hit me up if you have any leads 😄 <br>
 I'm currently a senior at San Jose State University, studying Computer Science, and graduating Summa Cum Laude in May 2023.<br>
-I'm a Software Engineer with 1 year of work experience. <br>
-Software Engineer Intern - Lyft - Summer 2022 <br>
-Software Engineer - ClearTax - July 2020 to July 2021 <br>
-🔍 Looking for Full-Time SWE roles. Hit me up if you have any leads 😄
+👨‍💻 I'm a Software Engineer with 1 year of work experience. <br>
+🚕 Software Engineer Intern - Lyft - Summer 2022 <br>
+📊 Software Engineer - ClearTax - July 2020 to July 2021 <br>
 
 ## Tech Stack
 - **Programming Language -** Java, Python, Golang, C++, JavaScript, TypeScript, PHP
